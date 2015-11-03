@@ -1,4 +1,4 @@
-package com.zsyandxf.javacore;
+package com.javacore.main;
 
 public class HelloWorld {
 	public static void main(String[] args) {
