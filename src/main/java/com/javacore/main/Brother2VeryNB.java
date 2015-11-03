@@ -1,4 +1,4 @@
-package com.zsyandxf.javacore;
+package com.javacore.main;
 
 public class Brother2VeryNB {
 	public static void main(String[] args) {
